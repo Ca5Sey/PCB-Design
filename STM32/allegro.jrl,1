@@ -1,0 +1,15 @@
+\t (00:00:07) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Tue Jan 23 14:33:00 2024
+\t (00:00:07)         Host=WINDOWS User=嘉 Pid=6312 CPUs=6
+\t (00:00:07) CmdLine= d:\orcad allegro\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\嘉\Downloads\STM32-master\Hardware\stm32-pi_basic\7\stm32hw07.brd
+\t (00:00:07) 
+   (00:00:07) Loading axlcore.cxt 
+\t (00:00:10) Opening existing design...
+\e (00:00:10) ERROR(SPMHDB-238): The design is corrupted. It may have been copied from a different architecture using ASCII mode; copy using binary mode.
+\e (00:00:10) ERROR(SPMHDB-238): The design is corrupted. It may have been copied from a different architecture using ASCII mode; copy using binary mode.
+\i (00:00:26) fillin confirm
+\t (00:00:26) Starting new design...
+\i (00:00:27) trapsize 116667
+\i (00:00:27) generaledit 
+\i (00:00:27) exit 
+\t (00:00:29)     Journal end - Tue Jan 23 14:33:21 2024
