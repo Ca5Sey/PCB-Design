@@ -1,0 +1,47 @@
+\t (00:00:05) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Wed Jan 24 16:02:24 2024
+\t (00:00:05)         Host=WINDOWS User=嘉 Pid=15160 CPUs=6
+\t (00:00:05) CmdLine= D:\orcad allegro\Cadence\SPB_17.4\tools\bin\allegro.exe -mpssession 嘉 -proj D:\ORCAD ALLEGRO\PCB PROJECT\LMC6681\SECOND_DESIGN.opj D:\ORCAD ALLEGRO\PCB PROJECT\LMC6681\allegro\ptsd.brd
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ptsd
+\d (00:00:07) Design opened: D:/ORCAD ALLEGRO/PCB PROJECT/LMC6681/allegro/ptsd.brd
+\i (00:00:08) trapsize 1167
+\i (00:00:08) trapsize 1198
+\i (00:00:08) trapsize 1167
+\i (00:00:08) trapsize 1190
+\t (00:00:08) > Sending response DoneOpenBoard
+\i (00:00:08) generaledit 
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 17.2847 11.1427
+\i (00:00:11) trapsize 2380
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 17.2370 11.1427
+\i (00:00:12) trapsize 1190
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 17.1894 11.1189
+\i (00:00:12) trapsize 2380
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 33.9470 11.9758
+\i (00:00:15) trapsize 1190
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 30.8288 11.7616
+\i (00:00:15) trapsize 2380
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 17.1656 11.2379
+\i (00:00:16) trapsize 1190
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 25.1159 13.1422
+\i (00:00:20) trapsize 2380
+\i (00:01:19) exit 
+\e (00:01:19) Do you want to save the changes you made to ptsd.brd?
+\i (00:01:21) fillin no 
+\t (00:01:23)     Journal end - Wed Jan 24 16:03:43 2024

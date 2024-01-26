@@ -1,0 +1,31 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "R4",
+			"C_PATH" : "@second_design.schematic1(sch_1):ins1726@discrete.\\r.normal\\(chips)",
+			"Logical" : "R4",
+			"Physical" : null
+		}
+	],
+	"Net" : [],
+	"Connection" : [
+		{
+			"Name" : "R4.1",
+			"C_PATH" : "@second_design.schematic1(sch_1):ins1726@discrete.\\r.normal\\(chips):\\1\\",
+			"Logical" : "N00231",
+			"Physical" : null
+		},
+		{
+			"Name" : "R4.2",
+			"C_PATH" : "@second_design.schematic1(sch_1):ins1726@discrete.\\r.normal\\(chips):\\2\\",
+			"Logical" : "N00341",
+			"Physical" : null
+		}
+	]
+}

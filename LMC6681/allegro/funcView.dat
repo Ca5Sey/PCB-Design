@@ -1,0 +1,8 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
+J!D:/ORCAD ALLEGRO/PCB PROJECT/SECOND-DESIGN/allegro/awsd.brd!Tue Aug 29 11:38:04 2023!-50.0000!-50.0000!247.0000!160.0000!0.0001!millimeters!SECOND_DESIGN!10.400000 mil!2!UP TO DATE!
+S!@second_design.schematic1(sch_1):ins170@discrete.\c.normal\(chips)!C_SMR0805_0.1UF!C1!.\chipsView.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
+S!@second_design.schematic1(sch_1):ins137@connector.\header 6.normal\(chips)!HEADER 6_BLKCON156VHTM1SQSW1566_HEADER 6!J1!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
+S!@second_design.schematic1(sch_1):ins195@discrete.\r.normal\(chips)!R_SMR0805_10K!R1!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
+S!@second_design.schematic1(sch_1):ins213@discrete.\r.normal\(chips)!R_SMR0805_10K!R2!.\chipsView.dat!!!!!!F2!!!!!!!!!!!!!!!!!!
+S!@second_design.schematic1(sch_1):ins323@discrete.\r.normal\(chips)!R_SMR0805_10K!R3!.\chipsView.dat!!!!!!F1!!!!!!!!!!!!!!!!!!
+S!@second_design.schematic1(sch_1):ins51@amplifier.\lmc6681/so.normal\(chips)!LMC6681/SO_SOIC8_LMC6681/SO!U1!.\chipsView.dat!!!!!!F0!!!!!!!!!!!!!!!!!!

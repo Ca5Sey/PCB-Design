@@ -1,0 +1,19 @@
+\t (00:00:16) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:16)     Journal start - Wed Jan 24 16:01:58 2024
+\t (00:00:16)         Host=WINDOWS User=嘉 Pid=16204 CPUs=6
+\t (00:00:16) CmdLine= D:\orcad allegro\Cadence\SPB_17.4\tools\bin\allegro.exe -mpssession 嘉 -proj D:\ORCAD ALLEGRO\PCB PROJECT\LMC6681\SECOND_DESIGN.opj D:\ORCAD ALLEGRO\PCB PROJECT\LMC6681\allegro\awsd.brd
+\t (00:00:16) 
+   (00:00:16) Loading axlcore.cxt 
+\t (00:00:17) Opening existing design...
+\i (00:00:18) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged awsd
+\d (00:00:18) Design opened: D:/ORCAD ALLEGRO/PCB PROJECT/LMC6681/allegro/awsd.brd
+\i (00:00:19) trapsize 2333
+\i (00:00:19) trapsize 2396
+\i (00:00:19) trapsize 2333
+\i (00:00:20) trapsize 2380
+\t (00:00:21) > Sending response DoneOpenBoard
+\i (00:00:21) generaledit 
+\i (00:00:24) exit 
+\e (00:00:24) Do you want to save the changes you made to awsd.brd?
+\i (00:00:26) fillin no 
+\t (00:00:30)     Journal end - Wed Jan 24 16:02:12 2024

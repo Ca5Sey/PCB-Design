@@ -1,0 +1,24 @@
+A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_CDS_PINID!PIN_XNET_PINS!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
+J!D:/ORCAD ALLEGRO/PCB PROJECT/SECOND-DESIGN/allegro/awsd.brd!Tue Aug 29 11:38:04 2023!-50.0000!-50.0000!247.0000!160.0000!0.0001!millimeters!SECOND_DESIGN!10.400000 mil!2!UP TO DATE!
+S!VCC!C1!1!@second_design.schematic1(sch_1):ins170@discrete.\c.normal\(chips)!C_SMR0805_0.1UF!!!F5!!!!!!!!!!
+S!GND!C1!2!@second_design.schematic1(sch_1):ins170@discrete.\c.normal\(chips)!C_SMR0805_0.1UF!!!F5!!!!!!!!!!
+S!VCC!J1!1!@second_design.schematic1(sch_1):ins137@connector.\header 6.normal\(chips)!HEADER 6_BLKCON156VHTM1SQSW1566_HEADER 6!!!F4!!!!!!!!!!
+S!IN-!J1!2!@second_design.schematic1(sch_1):ins137@connector.\header 6.normal\(chips)!HEADER 6_BLKCON156VHTM1SQSW1566_HEADER 6!!!F4!!!!!!!!!!
+S!IN+!J1!3!@second_design.schematic1(sch_1):ins137@connector.\header 6.normal\(chips)!HEADER 6_BLKCON156VHTM1SQSW1566_HEADER 6!!!F4!!!!!!!!!!
+S!OUT!J1!4!@second_design.schematic1(sch_1):ins137@connector.\header 6.normal\(chips)!HEADER 6_BLKCON156VHTM1SQSW1566_HEADER 6!!!F4!!!!!!!!!!
+S!-5V!J1!5!@second_design.schematic1(sch_1):ins137@connector.\header 6.normal\(chips)!HEADER 6_BLKCON156VHTM1SQSW1566_HEADER 6!!!F4!!!!!!!!!!
+S!GND!J1!6!@second_design.schematic1(sch_1):ins137@connector.\header 6.normal\(chips)!HEADER 6_BLKCON156VHTM1SQSW1566_HEADER 6!!!F4!!!!!!!!!!
+S!IN+!R1!1!@second_design.schematic1(sch_1):ins195@discrete.\r.normal\(chips)!R_SMR0805_10K!!!F3!!!!!!!!!!
+S!N00235!R1!2!@second_design.schematic1(sch_1):ins195@discrete.\r.normal\(chips)!R_SMR0805_10K!!!F3!!!!!!!!!!
+S!IN-!R2!1!@second_design.schematic1(sch_1):ins213@discrete.\r.normal\(chips)!R_SMR0805_10K!!!F2!!!!!!!!!!
+S!N00231!R2!2!@second_design.schematic1(sch_1):ins213@discrete.\r.normal\(chips)!R_SMR0805_10K!!!F2!!!!!!!!!!
+S!N00341!R3!1!@second_design.schematic1(sch_1):ins323@discrete.\r.normal\(chips)!R_SMR0805_10K!!!F1!!!!!!!!!!
+S!OUT!R3!2!@second_design.schematic1(sch_1):ins323@discrete.\r.normal\(chips)!R_SMR0805_10K!!!F1!!!!!!!!!!
+S!!U1!8!!LMC6681/SO_SOIC8_LMC6681/SO!!!!!!!!!!!!!
+S!!U1!1!!LMC6681/SO_SOIC8_LMC6681/SO!!!!!!!!!!!!!
+S!N00235!U1!3!@second_design.schematic1(sch_1):ins51@amplifier.\lmc6681/so.normal\(chips)!LMC6681/SO_SOIC8_LMC6681/SO!!!F0!!!!!!!!!!
+S!N00231!U1!2!@second_design.schematic1(sch_1):ins51@amplifier.\lmc6681/so.normal\(chips)!LMC6681/SO_SOIC8_LMC6681/SO!!!F0!!!!!!!!!!
+S!-5V!U1!4!@second_design.schematic1(sch_1):ins51@amplifier.\lmc6681/so.normal\(chips)!LMC6681/SO_SOIC8_LMC6681/SO!!!F0!!!!!!!!!!
+S!N00341!U1!6!@second_design.schematic1(sch_1):ins51@amplifier.\lmc6681/so.normal\(chips)!LMC6681/SO_SOIC8_LMC6681/SO!!!F0!!!!!!!!!!
+S!GND!U1!5!@second_design.schematic1(sch_1):ins51@amplifier.\lmc6681/so.normal\(chips)!LMC6681/SO_SOIC8_LMC6681/SO!!!F0!!!!!!!!!!
+S!VCC!U1!7!@second_design.schematic1(sch_1):ins51@amplifier.\lmc6681/so.normal\(chips)!LMC6681/SO_SOIC8_LMC6681/SO!!!F0!!!!!!!!!!

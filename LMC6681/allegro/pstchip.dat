@@ -1,0 +1,88 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.4.0 d001Aug-30-2023 at 12:38:49}
+primitive 'C_SMR0805_0.1UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='smr0805';
+    VALUE='0.1uF';
+  end_body;
+end_primitive;
+primitive 'HEADER 6_BLKCON156VHTM1SQSW1566_HEADER 6';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HEADER 6';
+    JEDEC_TYPE='BLKCON156VHTM1SQSW1566';
+    VALUE='HEADER 6';
+  end_body;
+end_primitive;
+primitive 'R_SMR0805_10K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0805';
+    VALUE='10k';
+  end_body;
+end_primitive;
+primitive 'LMC6681/SO_SOIC8_LMC6681/SO';
+  pin
+    '+IN':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(*)';
+    '-IN':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+    'OUT':
+      PIN_NUMBER='(6)';
+      OUTPUT_LOAD='(*)';
+    'VCC+':
+      PIN_NUMBER='(7)';
+      PINUSE='POWER';
+    '-VCC':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+    'PD':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(*)';
+  end_pin;
+  body
+    PART_NAME='LMC6681/SO';
+    JEDEC_TYPE='soic8';
+    VALUE='LMC6681/SO';
+    NC_PINS='(1,8)';
+  end_body;
+end_primitive;
+END.
