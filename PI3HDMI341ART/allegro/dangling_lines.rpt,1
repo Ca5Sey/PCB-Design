@@ -1,0 +1,178 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : pi3hdmi341art.brd                             )
+(    Software Version : 17.4S035                                      )
+(    Date/Time        : Sun Oct  1 17:28:48 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - Not part of the current partition.
+  - To suppress items in dangle report add the OK_DANGLE property to the via
+    or connect line.
+
+<< Dangling Lines >>  - Location marked with a star (*) is dangling.
+  Net                 Layer                  Length       Location
+  ------------------------------------------------------------------------------------------
+  A34                  TOP                     0.85      (12834.40 7531.00) to *(12835.00 7531.60)
+  B34                  TOP                     4.24     *(10375.00 8593.00) to  (10372.00 8590.00)
+  GND_SIGNAL           GND02                  18.03      (10139.57 6966.54) to *(10121.54 6966.54)
+  GND_SIGNAL           TOP                     1.97     *(9560.43 6964.57) to  (9560.43 6966.54)
+  GND_SIGNAL           TOP                   220.28     *(12260.00 6789.57) to  (12364.57 6966.54)
+  GND_SIGNAL           TOP                   154.96     *(11155.00 6789.57) to  (11264.57 6899.14)
+  Y3                   TOP                  1140.73     *(10805.00 8275.00) to  (11594.70 7611.00)
+  5V_HDMI3             TOP                     1.41     *(12316.00 7469.00) to  (12315.00 7470.00)
+  A13                  TOP                     5.00      (10543.11 7231.10) to *(10543.11 7226.10)
+  +3.3V                GND02                   1.82      (9486.90 7635.00) to *(9485.61 7636.29)
+  +3.3V                BOTTOM                 55.00      (10450.00 8640.00) to *(10450.00 8585.00)
+  +3.3V                TOP                     5.41     *(10550.00 8015.00) to  (10555.00 8014.00)
+  +3.3V                BOTTOM                 50.00      (10330.00 8640.00) to *(10330.00 8590.00)
+  +3.3V                GND02                   2.00     *(9425.00 7658.00) to  (9425.00 7660.00)
+  Not a Net            TOP                     0.43     *(11155.00 6860.00) to *(11155.00 6860.43)
+  Not a Net            TOP                     0.61     *(10015.00 6789.57) to *(10015.43 6790.00)
+  Not a Net            BOTTOM                  8.49     *(12360.00 9749.00) to *(12354.00 9755.00)
+
+
+<< Dangling Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  +3.3V                VIA                  (10250.00 9230.00) TOP/BOTTOM 
+  PWR_LED              VIA                  (10700.00 9320.00) TOP/BOTTOM 
+
+
+<< Antenna Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  GND_SIGNAL           VIA                  (9710.00 7245.00) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (12125.00 7200.00) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (11000.00 7240.00) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (9850.00 7245.00) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (11412.20 6977.80) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (12512.20 7080.00) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (12630.31 7080.00) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (12689.37 7080.00) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (12748.43 7080.00) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (12807.48 7080.00) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (10287.20 7112.80) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (10405.31 7115.31) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (10464.37 7114.37) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (10523.43 7113.43) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (10582.48 7110.00) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (9135.00 7090.00) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (9255.00 7090.00) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (9315.00 7090.00) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (9373.43 7086.57) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (9432.48 7087.48) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (11264.57 6899.14) TOP/BOTTOM 
+  GND_SIGNAL           VIA                  (11530.31 7085.31) TOP/BOTTOM 
+  VCC1                 VIA                  (10725.00 7395.00) TOP/BOTTOM 
+  VCC1                 VIA                  (10600.00 7395.00) TOP/BOTTOM 
+  VCC1                 VIA                  (10425.00 7394.50) TOP/BOTTOM 
+  VCC4                 VIA                  (11575.00 7570.00) TOP/BOTTOM 
+  5V_HDMI3             VIA                  (12255.00 7375.00) TOP/BOTTOM 
+  VCC3                 VIA                  (12645.00 7405.00) TOP/BOTTOM 
+  VCC2                 VIA                  (9550.00 7390.00) TOP/BOTTOM 
+  VCC2                 VIA                  (9425.00 7390.00) TOP/BOTTOM 
+  VCC2                 VIA                  (9275.00 7390.00) TOP/BOTTOM 
+  +3.3V                VIA                  (9710.00 7415.00) TOP/BOTTOM 
+  +3.3V                VIA                  (8170.51 6899.49) TOP/BOTTOM 
+  +3.3V                VIA                  (12915.00 7535.00) TOP/BOTTOM 
+  +3.3V                VIA                  (9594.00 7559.00) TOP/BOTTOM 
+  +3.3V                VIA                  (12125.00 7380.00) TOP/BOTTOM 
+  +3.3V                VIA                  (11000.00 7405.00) TOP/BOTTOM 
+  +3.3V                VIA                  (9850.00 7415.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10270.00 7775.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10510.00 7640.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10492.50 8012.50) TOP/BOTTOM 
+  +3.3V                VIA                  (10360.00 7640.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10370.00 8014.00) TOP/BOTTOM 
+  +3.3V                VIA                  (9486.90 7635.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10189.00 8175.00) TOP/BOTTOM 
+  +3.3V                VIA                  (9350.00 7640.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10189.00 8295.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10189.00 8411.59) TOP/BOTTOM 
+  +3.3V                VIA                  (9211.58 7640.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10645.00 8540.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10715.00 8459.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10715.00 8255.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10715.00 8375.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10715.00 8430.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10715.00 8315.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10811.00 8315.00) TOP/BOTTOM 
+  +3.3V                VIA                  (11645.00 7645.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10811.00 8434.53) TOP/BOTTOM 
+  +3.3V                VIA                  (11790.00 7640.00) TOP/BOTTOM 
+  +3.3V                VIA                  (11725.00 7660.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10811.00 8375.00) TOP/BOTTOM 
+  +3.3V                VIA                  (11575.00 7660.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10811.50 8255.00) TOP/BOTTOM 
+  +3.3V                VIA                  (11513.16 7640.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10811.00 8195.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10715.00 8195.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10605.00 8110.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10395.00 8540.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10510.00 8540.00) TOP/BOTTOM 
+  +3.3V                VIA                  (12793.32 7575.50) TOP/BOTTOM 
+  +3.3V                VIA                  (10390.00 8640.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10570.00 8540.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10450.00 8540.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10570.00 8640.00) TOP/BOTTOM 
+  +3.3V                VIA                  (12575.00 7550.00) TOP/BOTTOM 
+  +3.3V                VIA                  (12645.00 7575.50) TOP/BOTTOM 
+  +3.3V                VIA                  (10510.00 8640.00) TOP/BOTTOM 
+  +3.3V                VIA                  (12720.61 7560.61) TOP/BOTTOM 
+  +3.3V                VIA                  (10430.00 8110.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10545.00 8110.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10490.00 8110.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10370.00 8110.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10610.00 8014.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10675.00 7640.00) TOP/BOTTOM 
+  +3.3V                VIA                  (12645.00 7485.00) TOP/BOTTOM 
+  +3.3V                VIA                  (11184.00 7836.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10600.00 7655.50) TOP/BOTTOM 
+  +3.3V                VIA                  (10555.00 8014.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10430.00 8014.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10426.51 7655.50) TOP/BOTTOM 
+  +3.3V                VIA                  (10675.00 7565.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10600.00 7565.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10425.00 7565.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10634.00 8110.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10335.00 8540.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10285.00 8235.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10285.00 8355.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10285.00 8435.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10285.00 8295.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10285.00 8406.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10280.87 8145.67) TOP/BOTTOM 
+  +3.3V                VIA                  (10281.00 8180.00) TOP/BOTTOM 
+  +3.3V                VIA                  (9500.00 7560.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10189.00 8235.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10189.00 8355.00) TOP/BOTTOM 
+  +3.3V                VIA                  (8670.00 7695.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10285.00 8510.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10575.00 9000.00) TOP/BOTTOM 
+  +3.3V                VIA                  (10250.00 9230.00) TOP/BOTTOM 
+  +3V3                 VIA                  (12793.31 9451.69) TOP/BOTTOM 
+  +3V3                 VIA                  (11085.00 9275.00) TOP/BOTTOM 
+  +3V3                 VIA                  (10980.00 9840.00) TOP/BOTTOM 
+  +3V3                 VIA                  (8596.69 9466.69) TOP/BOTTOM 
+  +3V3                 VIA                  (9203.31 9466.69) TOP/BOTTOM 
+  +3V3                 VIA                  (9856.69 9466.69) TOP/BOTTOM 
+  +3V3                 VIA                  (10205.00 9725.00) TOP/BOTTOM 
+  PWR_LED              VIA                  (10700.00 9320.00) TOP/BOTTOM 
+
+<< Summary >>
+  Total dangling lines:      17
+  Total dangling vias:        2
+  Total antenna vias:       117

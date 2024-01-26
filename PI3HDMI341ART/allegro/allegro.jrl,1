@@ -1,0 +1,215 @@
+\t (00:00:20) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:20)     Journal start - Sun Nov 26 18:47:53 2023
+\t (00:00:20)         Host=WINDOWS User=嘉 Pid=13440 CPUs=6
+\t (00:00:20) CmdLine= allegro.exe -proj D:/ORCAD ALLEGRO/PCB PROJECT/PI3HDMI341ART/PI3HDMI341ART.opj D:/orcad allegro/PCB Project/PI3HDMI341ART/allegro/pi3hdmi341art.brd
+\t (00:00:20) 
+   (00:00:20) Loading axlcore.cxt 
+\t (00:00:21) Opening existing design...
+\i (00:00:22) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged pi3hdmi341art
+\d (00:00:22) Design opened: D:/orcad allegro/PCB Project/PI3HDMI341ART/allegro/pi3hdmi341art.brd
+\i (00:00:22) trapsize 2155
+\i (00:00:22) trapsize 2213
+\i (00:00:23) trapsize 2155
+\i (00:00:23) trapsize 2199
+\t (00:00:24) > Sending response DoneOpenBoard
+\i (00:00:24) generaledit 
+\i (00:00:26) pick grid 9010.04 10138.33
+\t (00:00:26) last pick:  9010.00 10140.00
+\i (00:00:48) status 
+\i (00:00:48) generaledit 
+\i (00:01:59) setwindow form.status
+\i (00:01:59) FORM status done  
+\i (00:02:00) setwindow pcb
+\i (00:02:00) exit 
+\e (00:02:00) Do you want to save the changes you made to pi3hdmi341art.brd?
+\i (00:02:03) fillin menu_cancel 
+\i (00:02:03) generaledit 
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in 11015.50 8801.35
+\i (00:02:05) trapsize 1099
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in 11015.50 8803.55
+\i (00:02:05) trapsize 550
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in 11015.50 8805.75
+\i (00:02:05) trapsize 275
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in 10948.43 8818.39
+\i (00:02:05) trapsize 137
+\i (00:02:06) zoom in 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom in 10947.06 8818.94
+\i (00:02:06) trapsize 69
+\i (00:02:06) zoom out 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom out 10947.06 8818.94
+\i (00:02:06) trapsize 137
+\i (00:02:06) zoom out 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom out 10947.06 8818.94
+\i (00:02:06) trapsize 275
+\i (00:02:06) zoom out 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom out 10947.07 8818.95
+\i (00:02:06) trapsize 550
+\i (00:02:06) zoom out 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom out 10894.29 8831.04
+\i (00:02:06) trapsize 1099
+\i (00:02:06) zoom in 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom in 10190.61 9044.34
+\i (00:02:06) trapsize 550
+\i (00:02:07) zoom in 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom in 10190.61 9044.34
+\i (00:02:07) trapsize 275
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out 10303.31 8958.58
+\i (00:02:07) trapsize 550
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out 10322.00 8960.78
+\i (00:02:07) trapsize 1099
+\i (00:02:08) zoom in 1 
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom in 10284.61 8978.37
+\i (00:02:08) trapsize 550
+\i (00:02:08) zoom out 1 
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom out 10284.61 8978.37
+\i (00:02:08) trapsize 1099
+\i (00:02:08) zoom out 1 
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom out 10284.62 9011.36
+\i (00:02:08) trapsize 2199
+\i (00:02:09) zoom in 1 
+\i (00:02:09) setwindow pcb
+\i (00:02:09) zoom in 9704.09 9459.96
+\i (00:02:09) trapsize 1099
+\i (00:02:09) zoom in 1 
+\i (00:02:09) setwindow pcb
+\i (00:02:09) zoom in 9704.09 9462.16
+\i (00:02:09) trapsize 550
+\i (00:02:09) zoom in 1 
+\i (00:02:09) setwindow pcb
+\i (00:02:09) zoom in 9697.49 9475.36
+\i (00:02:09) trapsize 275
+\i (00:02:09) zoom out 1 
+\i (00:02:09) setwindow pcb
+\i (00:02:09) zoom out 9689.25 9497.35
+\i (00:02:09) trapsize 550
+\i (00:02:09) zoom out 1 
+\i (00:02:09) setwindow pcb
+\i (00:02:09) zoom out 9689.24 9497.36
+\i (00:02:09) trapsize 1099
+\i (00:02:10) zoom out 1 
+\i (00:02:10) setwindow pcb
+\i (00:02:10) zoom out 9689.24 9497.36
+\i (00:02:10) trapsize 2199
+\i (00:02:10) zoom in 1 
+\i (00:02:10) setwindow pcb
+\i (00:02:10) zoom in 9961.92 9374.21
+\i (00:02:10) trapsize 1099
+\i (00:02:10) zoom in 1 
+\i (00:02:10) setwindow pcb
+\i (00:02:10) zoom in 9961.92 9374.22
+\i (00:02:10) trapsize 550
+\i (00:02:11) zoom out 1 
+\i (00:02:11) setwindow pcb
+\i (00:02:11) zoom out 9810.19 9351.13
+\i (00:02:11) trapsize 1099
+\i (00:02:11) zoom out 1 
+\i (00:02:11) setwindow pcb
+\i (00:02:11) zoom out 9810.19 9351.14
+\i (00:02:11) trapsize 2199
+\i (00:02:11) zoom out 1 
+\i (00:02:11) setwindow pcb
+\i (00:02:11) zoom out 9810.19 9351.13
+\t (00:02:11) Grids are drawn 50.00, 50.00 apart for enhanced viewing.
+\i (00:02:11) trapsize 4398
+\i (00:02:11) zoom out 1 
+\i (00:02:11) setwindow pcb
+\i (00:02:11) zoom out 9810.20 9351.14
+\t (00:02:11) Grids are drawn 100.00, 100.00 apart for enhanced viewing.
+\i (00:02:11) trapsize 8796
+\i (00:02:11) zoom out 1 
+\i (00:02:11) setwindow pcb
+\i (00:02:11) zoom out 9880.56 9368.73
+\t (00:02:11) Grids are drawn 200.00, 200.00 apart for enhanced viewing.
+\i (00:02:11) trapsize 17592
+\i (00:02:12) zoom in 1 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) zoom in 11252.73 6870.68
+\t (00:02:12) Grids are drawn 100.00, 100.00 apart for enhanced viewing.
+\i (00:02:12) trapsize 8796
+\i (00:02:12) zoom in 1 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) zoom in 11199.96 7046.61
+\t (00:02:12) Grids are drawn 50.00, 50.00 apart for enhanced viewing.
+\i (00:02:12) trapsize 4398
+\i (00:02:12) zoom in 1 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) zoom in 11147.19 7213.74
+\i (00:02:12) trapsize 2199
+\i (00:02:14) zoom fit 
+\i (00:02:14) trapsize 2071
+\i (00:02:14) zoom in 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom in 9390.45 8325.08
+\i (00:02:15) trapsize 1035
+\i (00:02:15) zoom out 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom out 8885.18 7859.16
+\i (00:02:15) trapsize 2071
+\i (00:02:15) zoom out 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom out 8628.41 7416.02
+\i (00:02:15) trapsize 4142
+\i (00:02:16) zoom in 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom in 8462.74 7026.72
+\i (00:02:16) trapsize 2071
+\i (00:02:16) zoom in 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom in 8458.60 7022.58
+\i (00:02:16) trapsize 1035
+\i (00:02:16) zoom in 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom in 8456.54 7020.51
+\i (00:02:16) trapsize 518
+\i (00:02:16) zoom in 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom in 8456.54 7020.52
+\i (00:02:16) trapsize 259
+\i (00:02:16) zoom in 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom in 8456.54 7020.52
+\i (00:02:16) trapsize 129
+\i (00:02:17) zoom out 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom out 8469.22 7047.18
+\i (00:02:17) trapsize 259
+\i (00:02:17) zoom out 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom out 8473.89 7051.84
+\i (00:02:17) trapsize 518
+\i (00:02:17) zoom out 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom out 8479.05 7076.69
+\i (00:02:17) trapsize 1035
+\i (00:02:18) zoom out 1 
+\i (00:02:18) setwindow pcb
+\i (00:02:18) zoom out 8479.06 7084.97
+\i (00:02:18) trapsize 2071
+\i (00:02:20) zoom fit 
+\i (00:02:20) trapsize 2071
+\i (00:02:21) exit 
+\e (00:02:21) Do you want to save the changes you made to pi3hdmi341art.brd?
+\i (00:02:22) fillin no 
+\t (00:02:23)     Journal end - Sun Nov 26 18:49:57 2023

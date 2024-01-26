@@ -1,0 +1,28 @@
+\t (00:00:15) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:15)     Journal start - Sun Dec  3 10:44:52 2023
+\t (00:00:15)         Host=WINDOWS User=嘉 Pid=10012 CPUs=6
+\t (00:00:15) CmdLine= allegro.exe -proj D:/ORCAD ALLEGRO/PCB PROJECT/PI3HDMI341ART/PI3HDMI341ART.opj D:/orcad allegro/PCB Project/PI3HDMI341ART/allegro/pi3hdmi341art.brd
+\t (00:00:15) 
+   (00:00:15) Loading axlcore.cxt 
+\t (00:00:16) Opening existing design...
+\i (00:00:17) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged pi3hdmi341art
+\d (00:00:17) Design opened: D:/orcad allegro/PCB Project/PI3HDMI341ART/allegro/pi3hdmi341art.brd
+\i (00:00:18) trapsize 2155
+\i (00:00:18) trapsize 2213
+\i (00:00:18) trapsize 2155
+\i (00:00:19) trapsize 2199
+\t (00:00:19) > Sending response DoneOpenBoard
+\i (00:00:20) generaledit 
+\i (00:00:22) zoom fit 
+\i (00:00:22) trapsize 2071
+\i (00:00:22) zoom fit 
+\i (00:00:23) trapsize 2071
+\i (00:00:29) status 
+\i (00:00:29) generaledit 
+\i (00:00:38) setwindow form.status
+\i (00:00:38) FORM status done  
+\i (00:00:39) setwindow pcb
+\i (00:00:39) exit 
+\e (00:00:39) Do you want to save the changes you made to pi3hdmi341art.brd?
+\i (00:00:41) fillin no 
+\t (00:00:42)     Journal end - Sun Dec  3 10:45:19 2023
