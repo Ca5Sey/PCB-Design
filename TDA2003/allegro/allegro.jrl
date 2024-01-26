@@ -1,0 +1,22 @@
+\t (00:00:04) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Thu Aug 31 11:54:12 2023
+\t (00:00:04)         Host=WINDOWS User=嘉 Pid=15544 CPUs=6
+\t (00:00:04) CmdLine= allegro.exe -proj D:/ORCAD ALLEGRO/PCB PROJECT/TDA2003/TDA2003.opj D:/orcad allegro/PCB Project/TDA2003/allegro/tdr2003.brd
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged tdr2003
+\d (00:00:07) Design opened: D:/orcad allegro/PCB Project/TDA2003/allegro/tdr2003.brd
+\i (00:00:07) trapsize 3551
+\i (00:00:07) trapsize 3646
+\i (00:00:07) trapsize 3551
+\i (00:00:07) trapsize 8352
+\t (00:00:07) > Sending response DoneOpenBoard
+\i (00:00:07) placementedit 
+\i (00:00:08) trapsize 19664
+\i (00:00:10) zoom fit 
+\i (00:00:10) trapsize 4181
+\i (00:46:59) exit 
+\e (00:46:59) Do you want to save the changes you made to tdr2003.brd?
+\i (00:47:00) fillin no 
+\t (00:47:03)     Journal end - Thu Aug 31 12:41:11 2023

@@ -1,0 +1,36 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : tdr2003.brd                                   )
+(    Software Version : 17.4S035                                      )
+(    Date/Time        : Thu Aug 31 11:29:20 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - Not part of the current partition.
+  - To suppress items in dangle report add the OK_DANGLE property to the via
+    or connect line.
+
+<< Dangling Lines >>  - Location marked with a star (*) is dangling.
+  Net                 Layer                  Length       Location
+  ------------------------------------------------------------------------------------------
+  N01144               BOTTOM               11.2802      (12.9250 17.6850) to *(22.7700 21.1500)
+  N01144               TOP                   0.1646     *(27.9211 29.3596) to  (27.9211 29.1950)
+  N01073               TOP                   0.1646     *(25.7875 29.0304) to  (25.7875 29.1950)
+  N00956               BOTTOM               14.2941      (27.8200 36.5275) to *(32.0125 23.9700)
+
+<< Summary >>
+  Total dangling lines:       4
+  Total dangling vias:        0
+  Total antenna vias:         0

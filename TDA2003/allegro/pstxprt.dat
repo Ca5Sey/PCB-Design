@@ -1,0 +1,160 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001Aug-31-2023 at 11:54:07 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='TDA2003';
+ POST_TIME='Jan 14 2023 14:52:27';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ A-IN 'CON2_BLKCON156VHTM1SQSW1562_CON2':;
+
+SECTION_NUMBER 1
+ '@TDA2003.SCHEMATIC1(SCH_1):INS1534@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@tda2003.schematic1(sch_1):ins1534@connector.\con2.normal\(chips)',
+ P_PATH='@tda2003.schematic1(sch_1):page1_ins1534@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'C_CAP196_C':;
+
+SECTION_NUMBER 1
+ '@TDA2003.SCHEMATIC1(SCH_1):INS699@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@tda2003.schematic1(sch_1):ins699@discrete.\c.normal\(chips)',
+ P_PATH='@tda2003.schematic1(sch_1):page1_ins699@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_CAP196_C':;
+
+SECTION_NUMBER 1
+ '@TDA2003.SCHEMATIC1(SCH_1):INS725@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@tda2003.schematic1(sch_1):ins725@discrete.\c.normal\(chips)',
+ P_PATH='@tda2003.schematic1(sch_1):page1_ins725@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR NON-POL_SMC0805_CAPACITOR NON-POL':;
+
+SECTION_NUMBER 1
+ '@TDA2003.SCHEMATIC1(SCH_1):INS3038@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@tda2003.schematic1(sch_1):ins3038@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@tda2003.schematic1(sch_1):page1_ins3038@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_CAP196_C':;
+
+SECTION_NUMBER 1
+ '@TDA2003.SCHEMATIC1(SCH_1):INS751@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@tda2003.schematic1(sch_1):ins751@discrete.\c.normal\(chips)',
+ P_PATH='@tda2003.schematic1(sch_1):page1_ins751@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR NON-POL_SMC0805_CAPACITOR NON-POL':;
+
+SECTION_NUMBER 1
+ '@TDA2003.SCHEMATIC1(SCH_1):INS2970@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@tda2003.schematic1(sch_1):ins2970@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@tda2003.schematic1(sch_1):page1_ins2970@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_CAP196_C':;
+
+SECTION_NUMBER 1
+ '@TDA2003.SCHEMATIC1(SCH_1):INS777@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@tda2003.schematic1(sch_1):ins777@discrete.\c.normal\(chips)',
+ P_PATH='@tda2003.schematic1(sch_1):page1_ins777@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR NON-POL_SMC0805_CAPACITOR NON-POL':;
+
+SECTION_NUMBER 1
+ '@TDA2003.SCHEMATIC1(SCH_1):INS3140@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@tda2003.schematic1(sch_1):ins3140@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@tda2003.schematic1(sch_1):page1_ins3140@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ POWER 'CON2_BLKCON156VHTM1SQSW1562_CON2':;
+
+SECTION_NUMBER 1
+ '@TDA2003.SCHEMATIC1(SCH_1):INS1560@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@tda2003.schematic1(sch_1):ins1560@connector.\con2.normal\(chips)',
+ P_PATH='@tda2003.schematic1(sch_1):page1_ins1560@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_SMR0805_R':;
+
+SECTION_NUMBER 1
+ '@TDA2003.SCHEMATIC1(SCH_1):INS828@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@tda2003.schematic1(sch_1):ins828@discrete.\r.normal\(chips)',
+ P_PATH='@tda2003.schematic1(sch_1):page1_ins828@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_SMR0805_R':;
+
+SECTION_NUMBER 1
+ '@TDA2003.SCHEMATIC1(SCH_1):INS854@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@tda2003.schematic1(sch_1):ins854@discrete.\r.normal\(chips)',
+ P_PATH='@tda2003.schematic1(sch_1):page1_ins854@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_SMR0805_R':;
+
+SECTION_NUMBER 1
+ '@TDA2003.SCHEMATIC1(SCH_1):INS802@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@tda2003.schematic1(sch_1):ins802@discrete.\r.normal\(chips)',
+ P_PATH='@tda2003.schematic1(sch_1):page1_ins802@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_SMR0805_R':;
+
+SECTION_NUMBER 1
+ '@TDA2003.SCHEMATIC1(SCH_1):INS880@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@tda2003.schematic1(sch_1):ins880@discrete.\r.normal\(chips)',
+ P_PATH='@tda2003.schematic1(sch_1):page1_ins880@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SPEAKER 'CON2_BLKCON156VHTM1SQSW1562_CON2':;
+
+SECTION_NUMBER 1
+ '@TDA2003.SCHEMATIC1(SCH_1):INS1518@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@tda2003.schematic1(sch_1):ins1518@connector.\con2.normal\(chips)',
+ P_PATH='@tda2003.schematic1(sch_1):page1_ins1518@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'TDA200X_TO170P1040X480X2115-5_TDA200X':;
+
+SECTION_NUMBER 1
+ '@TDA2003.SCHEMATIC1(SCH_1):INS587@TDA2003.TDA200X.NORMAL(CHIPS)':
+ C_PATH='@tda2003.schematic1(sch_1):ins587@tda2003.\tda200x.normal\(chips)',
+ P_PATH='@tda2003.schematic1(sch_1):page1_ins587@tda2003.\tda200x.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

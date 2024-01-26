@@ -1,0 +1,87 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.4.0 d001Aug-31-2023 at 11:54:07}
+primitive 'CON2_BLKCON156VHTM1SQSW1562_CON2';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON2';
+    JEDEC_TYPE='BLKCON156VHTM1SQSW1562';
+    VALUE='CON2';
+  end_body;
+end_primitive;
+primitive 'C_CAP196_C';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='cap196';
+    VALUE='C';
+  end_body;
+end_primitive;
+primitive 'CAPACITOR NON-POL_SMC0805_CAPACITOR NON-POL';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAPACITOR NON-POL';
+    JEDEC_TYPE='smc0805';
+    VALUE='CAPACITOR NON-POL';
+  end_body;
+end_primitive;
+primitive 'R_SMR0805_R';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0805';
+    VALUE='R';
+  end_body;
+end_primitive;
+primitive 'TDA200X_TO170P1040X480X2115-5_TDA200X';
+  pin
+    '+IN':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+    '-IN':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+    'GND':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+    'OUT':
+      PIN_NUMBER='(4)';
+      OUTPUT_LOAD='(*)';
+    'VCC':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='TDA200X';
+    JEDEC_TYPE='TO170P1040X480X2115-5';
+    VALUE='TDA200X';
+  end_body;
+end_primitive;
+END.

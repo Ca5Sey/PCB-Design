@@ -1,0 +1,482 @@
+[0830/121750.518:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0830/121750.523:ERROR:browser_context_impl.cc(252)] The cache_path directory could not be created: C:\Users\￥ﾘﾉ\AppData\Local\Temp\CEF\
+[0830/121752.590:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0830/121757.952:INFO:CONSOLE(0)] "Using unescaped '#' characters in a data URI body is deprecated and will be removed in M71, around December 2018. Please use '%23' instead. See https://www.chromestatus.com/features/5656049583390720 for more details.", source:  (0)
+[0830/121757.995:INFO:CONSOLE(6)] "UF: Pollyfill not needed, skipping.", source: https://content.cdntwrk.com/components/website-widget/v1/85433/widget.js (6)
+[0830/122022.847:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0830/122022.852:ERROR:browser_context_impl.cc(252)] The cache_path directory could not be created: C:\Users\￥ﾘﾉ\AppData\Local\Temp\CEF\
+[0830/122025.395:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0830/122026.952:INFO:CONSOLE(0)] "Using unescaped '#' characters in a data URI body is deprecated and will be removed in M71, around December 2018. Please use '%23' instead. See https://www.chromestatus.com/features/5656049583390720 for more details.", source:  (0)
+[0830/122026.995:INFO:CONSOLE(6)] "UF: Pollyfill not needed, skipping.", source: https://content.cdntwrk.com/components/website-widget/v1/85433/widget.js (6)
+[0830/125328.034:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0830/125328.040:ERROR:browser_context_impl.cc(252)] The cache_path directory could not be created: C:\Users\￥ﾘﾉ\AppData\Local\Temp\CEF\
+[0830/125330.302:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0830/125332.030:INFO:CONSOLE(0)] "Using unescaped '#' characters in a data URI body is deprecated and will be removed in M71, around December 2018. Please use '%23' instead. See https://www.chromestatus.com/features/5656049583390720 for more details.", source:  (0)
+[0830/125332.067:INFO:CONSOLE(6)] "UF: Pollyfill not needed, skipping.", source: https://content.cdntwrk.com/components/website-widget/v1/85433/widget.js (6)
+[0830/125336.699:INFO:CONSOLE(1579)] "doSizing: 1.427978515625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/125336.717:INFO:CONSOLE(1579)] "doSizing: 17.19287109375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/125336.717:INFO:CONSOLE(496)] "initFootprintViewer: 22.251953125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/125356.690:INFO:CONSOLE(0)] "Using unescaped '#' characters in a data URI body is deprecated and will be removed in M71, around December 2018. Please use '%23' instead. See https://www.chromestatus.com/features/5656049583390720 for more details.", source:  (0)
+[0830/125606.073:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125611.092:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125616.099:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125621.104:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125626.115:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125631.128:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125636.142:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125641.149:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125646.161:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125651.172:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125656.182:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125701.196:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125706.202:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125711.215:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125716.228:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125721.234:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125726.247:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125731.261:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125736.274:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125741.285:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125746.300:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125751.306:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125756.314:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125801.327:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125806.333:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125811.345:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125816.360:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125821.375:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125826.393:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125831.406:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125836.413:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125841.429:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125846.432:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125851.446:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125856.457:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125901.472:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125906.475:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125911.488:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125916.501:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125921.513:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125926.529:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125931.540:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125936.557:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125941.573:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125946.580:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125951.591:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/125956.606:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130001.613:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130006.618:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130011.626:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130016.637:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130021.651:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130026.668:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130031.677:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130036.692:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130041.696:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130046.709:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130051.721:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130056.739:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130101.748:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130106.751:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130111.769:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130116.775:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130121.789:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130126.805:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130131.819:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130136.833:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130141.841:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130146.857:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130151.871:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130156.876:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130201.885:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130206.891:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130211.900:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130216.908:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130221.912:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130226.927:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130231.937:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130236.951:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130241.968:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130246.977:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130251.991:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130257.007:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130302.023:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130307.035:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130312.038:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130317.053:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130322.067:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130327.074:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130332.080:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130337.090:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130342.098:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130347.113:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130352.122:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130357.132:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130402.148:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130407.158:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130412.170:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130417.182:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130422.187:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130427.192:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130432.207:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130437.212:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130442.217:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130447.224:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130452.237:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130457.249:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130502.263:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130507.281:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130512.287:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130517.297:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130522.310:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130527.321:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130532.334:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130537.351:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130542.369:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130547.381:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130552.393:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130557.408:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130602.418:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130607.426:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130612.441:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130617.457:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130622.469:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130627.482:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130632.496:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130637.511:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130642.524:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130647.534:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130652.550:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130657.567:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130702.583:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130707.596:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130712.612:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130717.628:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130722.638:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130727.652:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130732.657:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130737.661:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130742.670:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130747.677:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130752.691:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130757.696:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130802.711:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130807.716:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130812.725:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130817.744:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130822.761:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130827.771:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130832.787:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130837.796:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130842.806:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130847.824:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130852.832:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130857.850:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130902.863:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130907.874:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130912.883:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130917.886:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130922.903:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130927.908:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130932.925:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130937.933:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130942.940:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130947.949:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130952.958:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/130957.964:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/131002.972:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/131007.981:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/131012.996:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/131018.001:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/131023.017:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/131028.034:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/131033.052:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[0830/142413.737:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0830/142413.743:ERROR:browser_context_impl.cc(252)] The cache_path directory could not be created: C:\Users\￥ﾘﾉ\AppData\Local\Temp\CEF\
+[0830/142416.256:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0830/142418.095:INFO:CONSOLE(0)] "Using unescaped '#' characters in a data URI body is deprecated and will be removed in M71, around December 2018. Please use '%23' instead. See https://www.chromestatus.com/features/5656049583390720 for more details.", source:  (0)
+[0830/142418.276:INFO:CONSOLE(6)] "UF: Pollyfill not needed, skipping.", source: https://content.cdntwrk.com/components/website-widget/v1/85433/widget.js (6)
+[0830/142418.406:INFO:CONSOLE(1)] "Uncaught TypeError: Failed to execute 'observe' on 'PerformanceObserver': required member entryTypes is undefined.", source: https://script.hotjar.com/browser-perf.1c7ecd2be12644b9e658.js (1)
+[0830/142448.636:INFO:CONSOLE(1579)] "doSizing: 1.513916015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/142448.655:INFO:CONSOLE(1579)] "doSizing: 17.5380859375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/142448.656:INFO:CONSOLE(496)] "initFootprintViewer: 22.902099609375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/142724.117:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0830/142724.123:ERROR:browser_context_impl.cc(252)] The cache_path directory could not be created: C:\Users\￥ﾘﾉ\AppData\Local\Temp\CEF\
+[0830/142726.514:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0830/142728.278:INFO:CONSOLE(0)] "Using unescaped '#' characters in a data URI body is deprecated and will be removed in M71, around December 2018. Please use '%23' instead. See https://www.chromestatus.com/features/5656049583390720 for more details.", source:  (0)
+[0830/142728.321:INFO:CONSOLE(6)] "UF: Pollyfill not needed, skipping.", source: https://content.cdntwrk.com/components/website-widget/v1/85433/widget.js (6)
+[0830/143553.437:INFO:CONSOLE(1579)] "doSizing: 1.094970703125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/143553.438:INFO:CONSOLE(1579)] "doSizing: 5.716064453125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/143553.438:INFO:CONSOLE(496)] "initFootprintViewer: 9.576171875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/143554.657:INFO:CONSOLE(1579)] "doSizing: 0.44775390625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/143554.658:INFO:CONSOLE(1579)] "doSizing: 4.480224609375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/143554.663:INFO:CONSOLE(496)] "initFootprintViewer: 6.12890625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/143600.601:INFO:CONSOLE(1579)] "doSizing: 0.40087890625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/143600.601:INFO:CONSOLE(1579)] "doSizing: 4.0908203125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/143600.601:INFO:CONSOLE(496)] "initFootprintViewer: 5.666015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144311.863:INFO:CONSOLE(1579)] "doSizing: 0.907958984375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144311.868:INFO:CONSOLE(1579)] "doSizing: 8.091064453125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144311.874:INFO:CONSOLE(496)] "initFootprintViewer: 11.6552734375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144321.669:INFO:CONSOLE(1579)] "doSizing: 0.43701171875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144321.673:INFO:CONSOLE(1579)] "doSizing: 4.350341796875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144321.673:INFO:CONSOLE(496)] "initFootprintViewer: 6.04296875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144325.957:INFO:CONSOLE(1579)] "doSizing: 0.39208984375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144325.964:INFO:CONSOLE(1579)] "doSizing: 4.216796875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144325.964:INFO:CONSOLE(496)] "initFootprintViewer: 6.15625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144328.433:INFO:CONSOLE(1579)] "doSizing: 0.38427734375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144328.437:INFO:CONSOLE(1579)] "doSizing: 3.921142578125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144328.437:INFO:CONSOLE(496)] "initFootprintViewer: 5.340087890625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144331.913:INFO:CONSOLE(1579)] "doSizing: 0.369140625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144331.917:INFO:CONSOLE(1579)] "doSizing: 4.48974609375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144331.917:INFO:CONSOLE(496)] "initFootprintViewer: 5.9091796875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144334.347:INFO:CONSOLE(1579)] "doSizing: 0.400146484375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144334.352:INFO:CONSOLE(1579)] "doSizing: 4.61328125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144334.361:INFO:CONSOLE(496)] "initFootprintViewer: 6.39599609375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144338.103:INFO:CONSOLE(1579)] "doSizing: 0.410888671875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144338.107:INFO:CONSOLE(1579)] "doSizing: 5.42578125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144338.107:INFO:CONSOLE(496)] "initFootprintViewer: 6.996826171875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144338.983:INFO:CONSOLE(1579)] "doSizing: 0.4130859375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144338.984:INFO:CONSOLE(1579)] "doSizing: 4.56591796875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144338.984:INFO:CONSOLE(496)] "initFootprintViewer: 6.4482421875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144339.983:INFO:CONSOLE(1579)] "doSizing: 0.378173828125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144339.988:INFO:CONSOLE(1579)] "doSizing: 4.2041015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144339.988:INFO:CONSOLE(496)] "initFootprintViewer: 5.607666015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144341.229:INFO:CONSOLE(1579)] "doSizing: 0.406982421875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144341.238:INFO:CONSOLE(1579)] "doSizing: 7.52099609375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144341.246:INFO:CONSOLE(496)] "initFootprintViewer: 9.076171875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144343.430:INFO:CONSOLE(1579)] "doSizing: 0.421142578125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144343.435:INFO:CONSOLE(1579)] "doSizing: 4.13916015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144343.435:INFO:CONSOLE(496)] "initFootprintViewer: 5.759033203125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144807.851:INFO:CONSOLE(1579)] "doSizing: 0.4208984375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144807.851:INFO:CONSOLE(1579)] "doSizing: 5.068115234375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144807.851:INFO:CONSOLE(496)] "initFootprintViewer: 6.9189453125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144809.256:INFO:CONSOLE(1579)] "doSizing: 0.39794921875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144809.262:INFO:CONSOLE(1579)] "doSizing: 4.98095703125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144809.262:INFO:CONSOLE(496)] "initFootprintViewer: 6.45703125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144810.839:INFO:CONSOLE(1579)] "doSizing: 0.407958984375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144810.846:INFO:CONSOLE(1579)] "doSizing: 4.138916015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144810.846:INFO:CONSOLE(496)] "initFootprintViewer: 5.64404296875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144815.764:INFO:CONSOLE(1579)] "doSizing: 0.40869140625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144815.770:INFO:CONSOLE(1579)] "doSizing: 4.639892578125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144815.770:INFO:CONSOLE(496)] "initFootprintViewer: 6.31201171875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144817.622:INFO:CONSOLE(1579)] "doSizing: 0.41015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144817.622:INFO:CONSOLE(1579)] "doSizing: 4.033935546875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144817.627:INFO:CONSOLE(496)] "initFootprintViewer: 5.492919921875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144821.675:INFO:CONSOLE(1579)] "doSizing: 0.4091796875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144821.675:INFO:CONSOLE(1579)] "doSizing: 3.869140625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144821.675:INFO:CONSOLE(496)] "initFootprintViewer: 5.572998046875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144823.034:INFO:CONSOLE(1579)] "doSizing: 0.403076171875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144823.040:INFO:CONSOLE(1579)] "doSizing: 4.455078125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144823.040:INFO:CONSOLE(496)] "initFootprintViewer: 5.91796875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144825.770:INFO:CONSOLE(1579)] "doSizing: 0.390869140625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144825.770:INFO:CONSOLE(1579)] "doSizing: 4.157958984375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144825.770:INFO:CONSOLE(496)] "initFootprintViewer: 5.639892578125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144828.932:INFO:CONSOLE(1579)] "doSizing: 0.39111328125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144828.932:INFO:CONSOLE(1579)] "doSizing: 3.435302734375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144828.932:INFO:CONSOLE(496)] "initFootprintViewer: 5.11865234375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144830.684:INFO:CONSOLE(1579)] "doSizing: 0.427001953125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144830.685:INFO:CONSOLE(1579)] "doSizing: 4.4169921875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144830.685:INFO:CONSOLE(496)] "initFootprintViewer: 5.903076171875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144832.415:INFO:CONSOLE(1579)] "doSizing: 0.38818359375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144832.421:INFO:CONSOLE(1579)] "doSizing: 4.246826171875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144832.421:INFO:CONSOLE(496)] "initFootprintViewer: 5.642822265625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144839.220:INFO:CONSOLE(1579)] "doSizing: 0.4228515625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144839.225:INFO:CONSOLE(1579)] "doSizing: 4.07080078125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144839.225:INFO:CONSOLE(496)] "initFootprintViewer: 5.93310546875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144840.637:INFO:CONSOLE(1579)] "doSizing: 0.882080078125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144842.508:INFO:CONSOLE(1579)] "doSizing: 0.410888671875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144842.508:INFO:CONSOLE(1579)] "doSizing: 4.035888671875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144842.508:INFO:CONSOLE(496)] "initFootprintViewer: 5.738037109375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144848.350:INFO:CONSOLE(1579)] "doSizing: 0.390869140625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144848.350:INFO:CONSOLE(1579)] "doSizing: 3.86083984375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144848.355:INFO:CONSOLE(496)] "initFootprintViewer: 5.35107421875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144850.030:INFO:CONSOLE(1579)] "doSizing: 0.400146484375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144850.035:INFO:CONSOLE(1579)] "doSizing: 3.544189453125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144850.035:INFO:CONSOLE(496)] "initFootprintViewer: 5.096923828125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144851.837:INFO:CONSOLE(1579)] "doSizing: 0.3759765625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144851.837:INFO:CONSOLE(1579)] "doSizing: 3.863037109375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144851.837:INFO:CONSOLE(496)] "initFootprintViewer: 5.5078125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144854.071:INFO:CONSOLE(1579)] "doSizing: 0.3720703125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144854.072:INFO:CONSOLE(1579)] "doSizing: 3.8251953125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144854.072:INFO:CONSOLE(496)] "initFootprintViewer: 5.217041015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/144856.131:INFO:CONSOLE(1579)] "doSizing: 0.442138671875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144856.131:INFO:CONSOLE(1579)] "doSizing: 4.079833984375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/144856.131:INFO:CONSOLE(496)] "initFootprintViewer: 5.60302734375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/145232.072:INFO:CONSOLE(1579)] "doSizing: 0.85400390625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145232.073:INFO:CONSOLE(1579)] "doSizing: 5.73388671875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145232.079:INFO:CONSOLE(496)] "initFootprintViewer: 9.854248046875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/145322.528:INFO:CONSOLE(1579)] "doSizing: 0.4189453125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145322.529:INFO:CONSOLE(1579)] "doSizing: 4.531005859375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145322.529:INFO:CONSOLE(496)] "initFootprintViewer: 6.345947265625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/145336.334:INFO:CONSOLE(1579)] "doSizing: 0.466064453125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145336.335:INFO:CONSOLE(1579)] "doSizing: 4.734130859375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145336.335:INFO:CONSOLE(496)] "initFootprintViewer: 6.671875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/145347.057:INFO:CONSOLE(1579)] "doSizing: 0.416015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145347.057:INFO:CONSOLE(1579)] "doSizing: 4.18994140625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145347.058:INFO:CONSOLE(496)] "initFootprintViewer: 6.01904296875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/145404.884:INFO:CONSOLE(1579)] "doSizing: 0.421142578125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145404.885:INFO:CONSOLE(1579)] "doSizing: 4.60498046875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145404.885:INFO:CONSOLE(496)] "initFootprintViewer: 6.364990234375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/145415.354:INFO:CONSOLE(1579)] "doSizing: 0.424072265625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145415.354:INFO:CONSOLE(1579)] "doSizing: 4.197021484375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145415.355:INFO:CONSOLE(496)] "initFootprintViewer: 6.05078125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/145426.299:INFO:CONSOLE(1579)] "doSizing: 0.444091796875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145426.300:INFO:CONSOLE(1579)] "doSizing: 4.115966796875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145426.300:INFO:CONSOLE(496)] "initFootprintViewer: 6.0087890625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/145520.295:INFO:CONSOLE(1579)] "doSizing: 0.450927734375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145520.302:INFO:CONSOLE(1579)] "doSizing: 5.138916015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145520.302:INFO:CONSOLE(496)] "initFootprintViewer: 6.972900390625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/145527.465:INFO:CONSOLE(1579)] "doSizing: 0.44482421875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145527.470:INFO:CONSOLE(1579)] "doSizing: 4.298095703125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145527.470:INFO:CONSOLE(496)] "initFootprintViewer: 5.824951171875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/145529.165:INFO:CONSOLE(1579)] "doSizing: 0.39892578125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145529.170:INFO:CONSOLE(1579)] "doSizing: 4.240966796875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145529.170:INFO:CONSOLE(496)] "initFootprintViewer: 5.937255859375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/145530.559:INFO:CONSOLE(1579)] "doSizing: 0.39501953125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145530.565:INFO:CONSOLE(1579)] "doSizing: 4.0380859375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145530.565:INFO:CONSOLE(496)] "initFootprintViewer: 5.6689453125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/145532.165:INFO:CONSOLE(1579)] "doSizing: 0.462158203125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145532.173:INFO:CONSOLE(1579)] "doSizing: 4.5322265625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145532.173:INFO:CONSOLE(496)] "initFootprintViewer: 6.32275390625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/145534.010:INFO:CONSOLE(1579)] "doSizing: 0.379150390625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145534.010:INFO:CONSOLE(1579)] "doSizing: 4.02685546875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/145534.016:INFO:CONSOLE(496)] "initFootprintViewer: 5.5029296875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/150520.129:INFO:CONSOLE(1579)] "doSizing: 0.861083984375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/150520.139:INFO:CONSOLE(1579)] "doSizing: 6.4970703125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/150520.140:INFO:CONSOLE(496)] "initFootprintViewer: 10.012939453125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/150535.289:INFO:CONSOLE(1579)] "doSizing: 0.841064453125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/150535.296:INFO:CONSOLE(1579)] "doSizing: 5.10986328125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/150535.298:INFO:CONSOLE(496)] "initFootprintViewer: 9.230224609375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/150537.882:INFO:CONSOLE(1579)] "doSizing: 0.8740234375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/150542.054:INFO:CONSOLE(1579)] "doSizing: 0.408935546875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/150542.061:INFO:CONSOLE(1579)] "doSizing: 5.40185546875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/150542.061:INFO:CONSOLE(496)] "initFootprintViewer: 7.091064453125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/150629.058:INFO:CONSOLE(1579)] "doSizing: 0.392333984375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/150629.063:INFO:CONSOLE(1579)] "doSizing: 3.906005859375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/150629.063:INFO:CONSOLE(496)] "initFootprintViewer: 5.52392578125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/151738.591:INFO:CONSOLE(1579)] "doSizing: 0.443115234375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/151738.597:INFO:CONSOLE(1579)] "doSizing: 4.391845703125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/151738.597:INFO:CONSOLE(496)] "initFootprintViewer: 6.283935546875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/153856.752:INFO:CONSOLE(1579)] "doSizing: 0.40283203125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/153856.752:INFO:CONSOLE(1579)] "doSizing: 3.72216796875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/153856.752:INFO:CONSOLE(496)] "initFootprintViewer: 5.439208984375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/153859.035:INFO:CONSOLE(1579)] "doSizing: 0.39697265625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/153859.036:INFO:CONSOLE(1579)] "doSizing: 3.968994140625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/153859.036:INFO:CONSOLE(496)] "initFootprintViewer: 5.513916015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/155747.804:INFO:CONSOLE(1579)] "doSizing: 0.8671875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/155747.812:INFO:CONSOLE(1579)] "doSizing: 6.94384765625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/155747.813:INFO:CONSOLE(496)] "initFootprintViewer: 11.083984375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/155840.404:INFO:CONSOLE(1579)] "doSizing: 0.4150390625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/155840.405:INFO:CONSOLE(1579)] "doSizing: 4.342041015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/155840.405:INFO:CONSOLE(496)] "initFootprintViewer: 6.06298828125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/155955.966:INFO:CONSOLE(1579)] "doSizing: 0.39306640625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/155955.971:INFO:CONSOLE(1579)] "doSizing: 3.787109375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/155955.971:INFO:CONSOLE(496)] "initFootprintViewer: 5.668701171875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/155959.814:INFO:CONSOLE(1579)] "doSizing: 0.93505859375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160000.736:INFO:CONSOLE(1579)] "doSizing: 0.541259765625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160004.236:INFO:CONSOLE(1579)] "doSizing: 0.443115234375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160004.240:INFO:CONSOLE(1579)] "doSizing: 4.551025390625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160004.240:INFO:CONSOLE(496)] "initFootprintViewer: 6.287109375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160057.112:INFO:CONSOLE(1579)] "doSizing: 0.43896484375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160057.112:INFO:CONSOLE(1579)] "doSizing: 3.554931640625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160057.116:INFO:CONSOLE(496)] "initFootprintViewer: 5.36181640625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160100.214:INFO:CONSOLE(1579)] "doSizing: 0.880859375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160122.711:INFO:CONSOLE(1579)] "doSizing: 0.407958984375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160122.711:INFO:CONSOLE(1579)] "doSizing: 3.89794921875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160122.711:INFO:CONSOLE(496)] "initFootprintViewer: 5.582763671875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160128.660:INFO:CONSOLE(1579)] "doSizing: 0.4951171875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160128.660:INFO:CONSOLE(1579)] "doSizing: 4.258056640625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160128.661:INFO:CONSOLE(496)] "initFootprintViewer: 5.827880859375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160131.550:INFO:CONSOLE(1579)] "doSizing: 0.843017578125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160145.151:INFO:CONSOLE(1579)] "doSizing: 0.64697265625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160155.579:INFO:CONSOLE(1579)] "doSizing: 0.869140625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160155.580:INFO:CONSOLE(1579)] "doSizing: 5.43994140625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160155.581:INFO:CONSOLE(496)] "initFootprintViewer: 9.717041015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160210.826:INFO:CONSOLE(1579)] "doSizing: 0.857666015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160210.833:INFO:CONSOLE(1579)] "doSizing: 5.6240234375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160210.833:INFO:CONSOLE(496)] "initFootprintViewer: 9.68603515625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160213.537:INFO:CONSOLE(1579)] "doSizing: 0.404052734375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160213.543:INFO:CONSOLE(1579)] "doSizing: 4.459228515625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160213.543:INFO:CONSOLE(496)] "initFootprintViewer: 5.942138671875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160214.305:INFO:CONSOLE(1579)] "doSizing: 0.408935546875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160214.313:INFO:CONSOLE(1579)] "doSizing: 4.736083984375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160214.314:INFO:CONSOLE(496)] "initFootprintViewer: 6.400146484375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160215.314:INFO:CONSOLE(1579)] "doSizing: 0.39697265625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160215.321:INFO:CONSOLE(1579)] "doSizing: 4.339111328125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160215.321:INFO:CONSOLE(496)] "initFootprintViewer: 5.89111328125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160216.495:INFO:CONSOLE(1579)] "doSizing: 0.402099609375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160216.503:INFO:CONSOLE(1579)] "doSizing: 4.192138671875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160216.503:INFO:CONSOLE(496)] "initFootprintViewer: 5.6962890625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160217.776:INFO:CONSOLE(1579)] "doSizing: 0.3818359375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160217.782:INFO:CONSOLE(1579)] "doSizing: 4.119140625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160217.782:INFO:CONSOLE(496)] "initFootprintViewer: 5.765869140625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160218.856:INFO:CONSOLE(1579)] "doSizing: 0.391845703125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160218.862:INFO:CONSOLE(1579)] "doSizing: 4.451904296875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160218.862:INFO:CONSOLE(496)] "initFootprintViewer: 5.97509765625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160224.944:INFO:CONSOLE(1579)] "doSizing: 1.18798828125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160259.172:INFO:CONSOLE(1579)] "doSizing: 0.39208984375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160259.181:INFO:CONSOLE(1579)] "doSizing: 4.50927734375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160259.181:INFO:CONSOLE(496)] "initFootprintViewer: 6.298095703125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160300.672:INFO:CONSOLE(1579)] "doSizing: 0.406005859375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160300.677:INFO:CONSOLE(1579)] "doSizing: 3.934814453125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160300.677:INFO:CONSOLE(496)] "initFootprintViewer: 5.433837890625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160302.115:INFO:CONSOLE(1579)] "doSizing: 0.48388671875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160302.116:INFO:CONSOLE(1579)] "doSizing: 4.0869140625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160302.116:INFO:CONSOLE(496)] "initFootprintViewer: 5.842041015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160303.055:INFO:CONSOLE(1579)] "doSizing: 0.393798828125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160303.056:INFO:CONSOLE(1579)] "doSizing: 4.05908203125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160303.062:INFO:CONSOLE(496)] "initFootprintViewer: 5.777099609375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160321.002:INFO:CONSOLE(1579)] "doSizing: 0.39697265625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160321.002:INFO:CONSOLE(1579)] "doSizing: 4.106201171875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160321.003:INFO:CONSOLE(496)] "initFootprintViewer: 5.802978515625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160325.673:INFO:CONSOLE(1579)] "doSizing: 0.3876953125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160325.678:INFO:CONSOLE(1579)] "doSizing: 3.852294921875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160325.678:INFO:CONSOLE(496)] "initFootprintViewer: 5.393798828125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160333.451:INFO:CONSOLE(1579)] "doSizing: 1.010986328125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160333.453:INFO:CONSOLE(1579)] "doSizing: 5.22802734375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160333.459:INFO:CONSOLE(496)] "initFootprintViewer: 9.760009765625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160344.611:INFO:CONSOLE(1579)] "doSizing: 0.406982421875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160344.612:INFO:CONSOLE(1579)] "doSizing: 4.06103515625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160344.612:INFO:CONSOLE(496)] "initFootprintViewer: 5.826904296875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160356.634:INFO:CONSOLE(1579)] "doSizing: 0.416015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160356.640:INFO:CONSOLE(1579)] "doSizing: 4.31884765625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160356.640:INFO:CONSOLE(496)] "initFootprintViewer: 6.0771484375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160401.581:INFO:CONSOLE(1579)] "doSizing: 0.398193359375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160401.581:INFO:CONSOLE(1579)] "doSizing: 3.947998046875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160401.581:INFO:CONSOLE(496)] "initFootprintViewer: 5.43310546875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160416.470:INFO:CONSOLE(1579)] "doSizing: 0.81298828125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160416.474:INFO:CONSOLE(1579)] "doSizing: 5.28369140625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160416.479:INFO:CONSOLE(496)] "initFootprintViewer: 9.094970703125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160417.777:INFO:CONSOLE(1579)] "doSizing: 0.391845703125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160417.782:INFO:CONSOLE(1579)] "doSizing: 3.744873046875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160417.782:INFO:CONSOLE(496)] "initFootprintViewer: 5.166015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160419.410:INFO:CONSOLE(1579)] "doSizing: 1.23291015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160420.771:INFO:CONSOLE(1579)] "doSizing: 0.803955078125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160422.703:INFO:CONSOLE(1579)] "doSizing: 0.65576171875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160425.761:INFO:CONSOLE(1579)] "doSizing: 0.39892578125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160425.761:INFO:CONSOLE(1579)] "doSizing: 4.19189453125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160425.766:INFO:CONSOLE(496)] "initFootprintViewer: 5.88427734375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160441.766:INFO:CONSOLE(1579)] "doSizing: 0.40380859375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160441.766:INFO:CONSOLE(1579)] "doSizing: 4.080078125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160441.766:INFO:CONSOLE(496)] "initFootprintViewer: 5.755859375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160506.821:INFO:CONSOLE(1579)] "doSizing: 0.93115234375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160506.826:INFO:CONSOLE(1579)] "doSizing: 4.98388671875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160506.827:INFO:CONSOLE(496)] "initFootprintViewer: 8.97802734375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160804.654:INFO:CONSOLE(1579)] "doSizing: 0.406005859375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160804.654:INFO:CONSOLE(1579)] "doSizing: 4.212890625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160804.659:INFO:CONSOLE(496)] "initFootprintViewer: 5.89501953125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160808.424:INFO:CONSOLE(1579)] "doSizing: 0.392822265625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160808.429:INFO:CONSOLE(1579)] "doSizing: 3.90478515625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160808.429:INFO:CONSOLE(496)] "initFootprintViewer: 5.434814453125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160814.171:INFO:CONSOLE(1579)] "doSizing: 0.89599609375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160814.182:INFO:CONSOLE(1579)] "doSizing: 5.54296875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160814.182:INFO:CONSOLE(496)] "initFootprintViewer: 9.880126953125ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160816.913:INFO:CONSOLE(1579)] "doSizing: 0.4072265625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160816.918:INFO:CONSOLE(1579)] "doSizing: 3.8349609375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160816.919:INFO:CONSOLE(496)] "initFootprintViewer: 5.2822265625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160820.349:INFO:CONSOLE(1579)] "doSizing: 0.39306640625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160820.349:INFO:CONSOLE(1579)] "doSizing: 4.02099609375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160820.349:INFO:CONSOLE(496)] "initFootprintViewer: 5.7490234375ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
+[0830/160847.572:INFO:CONSOLE(1579)] "doSizing: 0.4091796875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160847.577:INFO:CONSOLE(1579)] "doSizing: 4.435791015625ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (1579)
+[0830/160847.577:INFO:CONSOLE(496)] "initFootprintViewer: 6.106201171875ms", source: file:///D:/orcad%20allegro/Cadence/SPB_17.4/share/pcb/quickview/quickview.js (496)
