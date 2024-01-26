@@ -1,0 +1,87 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.4.0 d001Aug-31-2023 at 17:51:55}
+primitive 'CAPACITOR_CAP196_1000UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAPACITOR';
+    JEDEC_TYPE='cap196';
+    VALUE='1000uF';
+  end_body;
+end_primitive;
+primitive 'MB152W_DIOB_TS10K80_GBU406';
+  pin
+    'AC IN 1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'DC OUT PLUS':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'AC IN 2':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'DC OUT MINUS':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='MB152W';
+    JEDEC_TYPE='diob_ts10k80';
+    VALUE='GBU406';
+  end_body;
+end_primitive;
+primitive '282837-2_TE_282837-2_POWER 16VAC';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='282837-2';
+    JEDEC_TYPE='TE_282837-2';
+    VALUE='Power 16VAC';
+  end_body;
+end_primitive;
+primitive '282837-2_TE_282837-2_12 DC';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='282837-2';
+    JEDEC_TYPE='TE_282837-2';
+    VALUE='12 DC';
+  end_body;
+end_primitive;
+primitive 'L7812CV_TO-220-3_L7812CV';
+  pin
+    'IN':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+    'OUT':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(*)';
+  end_pin;
+  body
+    PART_NAME='L7812CV';
+    JEDEC_TYPE='TO-220-3';
+    VALUE='L7812CV';
+  end_body;
+end_primitive;
+END.

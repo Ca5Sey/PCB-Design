@@ -1,0 +1,10 @@
+[0831/165348.119:ERROR:gpu_process_transport_factory.cc(990)] Lost UI shared context.
+[0831/165348.125:ERROR:browser_context_impl.cc(252)] The cache_path directory could not be created: C:\Users\￥ﾘﾉ\AppData\Local\Temp\CEF\
+[0831/165350.538:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0831/165352.334:INFO:CONSOLE(0)] "Using unescaped '#' characters in a data URI body is deprecated and will be removed in M71, around December 2018. Please use '%23' instead. See https://www.chromestatus.com/features/5656049583390720 for more details.", source:  (0)
+[0831/165352.375:INFO:CONSOLE(6)] "UF: Pollyfill not needed, skipping.", source: https://content.cdntwrk.com/components/website-widget/v1/85433/widget.js (6)
+[0831/165758.617:INFO:CONSOLE(0)] "Using unescaped '#' characters in a data URI body is deprecated and will be removed in M71, around December 2018. Please use '%23' instead. See https://www.chromestatus.com/features/5656049583390720 for more details.", source:  (0)
+[0831/165921.472:INFO:CONSOLE(0)] "Using unescaped '#' characters in a data URI body is deprecated and will be removed in M71, around December 2018. Please use '%23' instead. See https://www.chromestatus.com/features/5656049583390720 for more details.", source:  (0)
+[0831/173938.743:INFO:CONSOLE(0)] "Using unescaped '#' characters in a data URI body is deprecated and will be removed in M71, around December 2018. Please use '%23' instead. See https://www.chromestatus.com/features/5656049583390720 for more details.", source:  (0)
+[0831/175055.958:INFO:CONSOLE(0)] "Using unescaped '#' characters in a data URI body is deprecated and will be removed in M71, around December 2018. Please use '%23' instead. See https://www.chromestatus.com/features/5656049583390720 for more details.", source:  (0)
+[0831/175155.147:INFO:CONSOLE(0)] "Using unescaped '#' characters in a data URI body is deprecated and will be removed in M71, around December 2018. Please use '%23' instead. See https://www.chromestatus.com/features/5656049583390720 for more details.", source:  (0)

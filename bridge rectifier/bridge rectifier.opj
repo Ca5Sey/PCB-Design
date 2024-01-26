@@ -1,0 +1,101 @@
+(ExpressProject "bridge rectifier"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S035 (4083846)  [1/14/2023]-[08/31/23]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\bridge rectifier.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    ("Allegro Netlist Output Board File" ".\allegro\bridge rectifier.brd")
+    ("Allegro Netlist Input Board File"
+       "d:\orcad allegro\pcb project\bridge rectifier\allegro\bridge rectifier.brd"))
+  (Folder "Layout"
+    (File ".\allegro\bridge rectifier.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\bridge rectifier.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "D:\ORCAD ALLEGRO\PCB PROJECT\BRIDGE RECTIFIER\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "D:\ORCAD ALLEGRO\PCB PROJECT\BRIDGE RECTIFIER\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile "D:\ORCAD ALLEGRO\PCB PROJECT\BRIDGE RECTIFIER\allegro\eco.txt")))
+  (PartMRUSelector
+    (L7812CV
+      (FullPartName "L7812CV.Normal")
+      (LibraryName
+         "D:\ORCAD ALLEGRO\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\L7812CV\L7812CV.OLB")
+      (DeviceIndex "0"))
+    (282837-2
+      (FullPartName "282837-2.Normal")
+      (LibraryName
+         "D:\ORCAD ALLEGRO\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\TEMINAL BLOCK CONNECTOR\282837-2.OLB")
+      (DeviceIndex "0"))
+    (CAPACITOR
+      (FullPartName "CAPACITOR.Normal")
+      (LibraryName
+         "D:\ORCAD ALLEGRO\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MB152W
+      (FullPartName "MB152W.Normal")
+      (LibraryName
+         "D:\ORCAD ALLEGRO\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MB152
+      (FullPartName "MB152.Normal")
+      (LibraryName
+         "D:\ORCAD ALLEGRO\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "D:\orcad allegro\Cadence\SPB_17.4\tools\capture\library\L7812CV")
+  (MPSSessionName "嘉")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "D:\orcad allegro\PCB Project\bridge rectifier\bridge rectifier.dsn")
+      (Path "Design Resources"
+         "D:\orcad allegro\PCB Project\bridge rectifier\bridge rectifier.dsn"
+         "SCHEMATIC1")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 722"))
+      (Tab 0))))

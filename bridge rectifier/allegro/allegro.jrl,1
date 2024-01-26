@@ -1,0 +1,43 @@
+\t (00:00:03) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Aug 31 17:51:01 2023
+\t (00:00:03)         Host=WINDOWS User=嘉 Pid=15028 CPUs=6
+\t (00:00:03) CmdLine= allegro.exe -proj D:/ORCAD ALLEGRO/PCB PROJECT/BRIDGE RECTIFIER/BRIDGE RECTIFIER.opj D:/orcad allegro/PCB Project/bridge rectifier/allegro/bridge rectifier.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "bridge rectifier"
+\d (00:00:06) Design opened: D:/orcad allegro/PCB Project/bridge rectifier/allegro/bridge rectifier.brd
+\i (00:00:06) trapsize 1833
+\i (00:00:06) trapsize 1882
+\i (00:00:07) trapsize 1833
+\i (00:00:07) trapsize 1870
+\t (00:00:07) > Sending response DoneOpenBoard
+\i (00:00:07) generaledit 
+\i (00:00:09) shape add rect 
+\i (00:00:14) setwindow form.mini
+\i (00:00:14) FORM mini subclass BOTTOM 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) updateport CVPane
+\i (00:00:17) shape add rect 
+\i (00:00:26) pick grid 32.9211 32.8835
+\t (00:00:26) last pick:  32.9200 32.8825
+\i (00:00:34) pick grid -1.4545 -0.0332
+\t (00:00:34) last pick:  -1.4550 -0.0325
+\i (00:00:37) status 
+\i (00:00:39) setwindow form.status
+\i (00:00:39) FORM status drc_update  
+\w (00:00:39) DRC Update can not be run while command active.
+\i (00:00:40) FORM status drc_update  
+\w (00:00:40) DRC Update can not be run while command active.
+\i (00:00:45) FORM status done  
+\i (00:00:46) setwindow pcb
+\i (00:00:46) undo 
+\i (00:00:46) generaledit 
+\i (00:00:47) undo 
+\i (00:00:47) generaledit 
+\i (00:00:48) undo 
+\i (00:00:48) generaledit 
+\i (00:00:50) exit 
+\e (00:00:50) Do you want to save the changes you made to bridge rectifier.brd?
+\i (00:00:51) fillin no 
+\t (00:00:53)     Journal end - Thu Aug 31 17:51:51 2023

@@ -1,0 +1,55 @@
+\t (00:00:05) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Thu Aug 31 17:52:02 2023
+\t (00:00:05)         Host=WINDOWS User=嘉 Pid=11368 CPUs=6
+\t (00:00:05) CmdLine= allegro.exe -proj D:/ORCAD ALLEGRO/PCB PROJECT/BRIDGE RECTIFIER/BRIDGE RECTIFIER.opj D:/orcad allegro/PCB Project/bridge rectifier/allegro/bridge rectifier.brd
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:08) Opening existing design...
+\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "bridge rectifier"
+\d (00:00:08) Design opened: D:/orcad allegro/PCB Project/bridge rectifier/allegro/bridge rectifier.brd
+\i (00:00:08) trapsize 1833
+\i (00:00:08) trapsize 1882
+\i (00:00:09) trapsize 1833
+\i (00:00:09) trapsize 1870
+\t (00:00:09) > Sending response DoneOpenBoard
+\i (00:00:09) generaledit 
+\i (00:00:12) status 
+\i (00:00:12) generaledit 
+\i (00:00:18) setwindow form.status
+\i (00:00:18) FORM status drc_update  
+\t (00:00:18) Running DRC, wait...
+\t (00:00:18) Performing DRC...
+\t (00:00:18) Multithreaded DRC update (6 threads).
+\t (00:00:18) No DRC errors detected.
+\t (00:00:18) DRC done.
+\i (00:00:24) FORM status done  
+\i (00:00:30) setwindow pcb
+\i (00:00:30) shape add rect 
+\i (00:00:34) pick grid 33.8936 31.6118
+\t (00:00:34) last pick:  33.8925 31.6125
+\i (00:00:34) pick grid 26.7118 28.6941
+\t (00:00:34) last pick:  26.7125 28.6950
+\i (00:00:36) prepopup 32.7714 30.7140
+\i (00:00:38) cancel 
+\i (00:00:38) generaledit 
+\i (00:00:40) setwindow form.mini
+\i (00:00:40) FORM mini subclass BOTTOM 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) updateport CVPane
+\i (00:00:40) shape add rect 
+\i (00:00:45) pick grid 32.9959 32.9209
+\t (00:00:45) last pick:  32.9950 32.9200
+\i (00:00:46) pick grid 32.9585 32.9583
+\t (00:00:46) last pick:  32.9575 32.9575
+\i (00:00:51) pick grid 32.8462 32.9958
+\t (00:00:51) last pick:  32.8450 32.9950
+\i (00:01:00) pick grid -1.4171 -0.0332
+\t (00:01:00) last pick:  -1.4175 -0.0325
+\i (00:01:06) status 
+\i (00:01:11) setwindow form.status
+\i (00:01:11) FORM status done  
+\i (00:01:19) setwindow pcb
+\i (00:01:19) exit 
+\e (00:01:19) Do you want to save the changes you made to bridge rectifier.brd?
+\i (00:01:20) fillin yes 
+\t (00:01:22)     Journal end - Thu Aug 31 17:53:19 2023

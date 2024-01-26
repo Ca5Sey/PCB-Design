@@ -1,0 +1,91 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : bridge rectifier.brd                          )
+(    Software Version : 17.4S035                                      )
+(    Date/Time        : Thu Aug 31 17:51:56 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'D:\ORCAD ALLEGRO\PCB PROJECT\BRIDGE RECTIFIER\allegro'
+Design Directory:            'D:/orcad allegro/PCB Project/bridge rectifier/allegro'
+Old design name:             'd:/orcad allegro/pcb project/bridge rectifier/allegro/bridge rectifier.brd'
+New design name:             'D:/orcad allegro/PCB Project/bridge rectifier/allegro/bridge rectifier.brd'
+
+CmdLine: netrev.exe -y 1 -i D:\ORCAD ALLEGRO\PCB PROJECT\BRIDGE RECTIFIER\allegro d:\orcad allegro\pcb project\bridge rectifier\allegro\bridge rectifier.brd D:/orcad allegro/PCB Project/bridge rectifier/allegro/bridge rectifier.brd
+
+------ Preparing to read pst files ------
+
+Starting to read D:/ORCAD ALLEGRO/PCB PROJECT/BRIDGE RECTIFIER/allegro/pstchip.dat 
+   Finished reading D:/ORCAD ALLEGRO/PCB PROJECT/BRIDGE RECTIFIER/allegro/pstchip.dat (00:00:00.01)
+Starting to read D:/ORCAD ALLEGRO/PCB PROJECT/BRIDGE RECTIFIER/allegro/pstxprt.dat 
+   Finished reading D:/ORCAD ALLEGRO/PCB PROJECT/BRIDGE RECTIFIER/allegro/pstxprt.dat (00:00:00.00)
+Starting to read D:/ORCAD ALLEGRO/PCB PROJECT/BRIDGE RECTIFIER/allegro/pstxnet.dat 
+   Finished reading D:/ORCAD ALLEGRO/PCB PROJECT/BRIDGE RECTIFIER/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           d:/orcad allegro/cadence/spb_17.4/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/orcad allegro/cadence/spb_17.4/share/local/pcb/symbols 
+           d:/orcad allegro/cadence/spb_17.4/share/pcb/pcb_lib/symbols 
+           d:/orcad allegro/cadence/spb_17.4/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/orcad allegro/cadence/spb_17.4/share/local/pcb/padstacks 
+           d:/orcad allegro/cadence/spb_17.4/share/pcb/pcb_lib/symbols 
+           d:/orcad allegro/cadence/spb_17.4/share/pcb/allegrolib/symbols 
+           . 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Aug 31 17:51:56 2023
+   DESIGN NAME : 'BRIDGE RECTIFIER'
+   PACKAGING ON Jan 14 2023 14:52:27
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:57
+elapsed time  0:00:00
+
